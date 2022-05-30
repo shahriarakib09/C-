@@ -1,0 +1,126 @@
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+G:\study\c#\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.config
+G:\study\c#\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.pdb
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.DeleteAdmin.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.pdb
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.DeleteAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem - Copy\obj\Debug\FoodCourtManagementSystem.pdb
+G:\study\c#\FoodCourtManagementSystem - Copy\bin\Debug\FoodCourtManagementSystem.exe.config
+G:\study\c#\FoodCourtManagementSystem - Copy\bin\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem - Copy\bin\Debug\FoodCourtManagementSystem.pdb
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.DeleteAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\obj\Debug\FoodCourtManagementSystem.pdb
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\bin\Debug\FoodCourtManagementSystem.exe.config
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\bin\Debug\FoodCourtManagementSystem.exe
+G:\study\c#\FoodCourtManagementSystem - Copy - Copy - Copy\bin\Debug\FoodCourtManagementSystem.pdb
+D:\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe.config
+D:\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe
+D:\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.pdb
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.DeleteAdmin.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.exe
+D:\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.pdb
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe.config
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.pdb
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.DeleteAdmin.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.forgetPassword.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.exe
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.pdb
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.CustomeHomePage.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ucMyProfile.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ucUpdateProfile.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ucMyOrders.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ucChangePassword.resources
+C:\Users\user\Downloads\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ucCreateNewOrder.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe.config
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\bin\Debug\FoodCourtManagementSystem.pdb
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ChangePassoword.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.Login.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.MyOrder.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.Registration.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateProfile.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UserHomePage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.pdb
+C:\Users\User\Desktop\FoodCourtManagementSystem - Beyonde copy-20210503T071012Z-001\FoodCourtManagementSystem - Beyonde copy\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.config
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe.manifest
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.application
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\bin\Debug\FoodCourtManagementSystem.pdb
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AddAdmin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminLogin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.AdminPage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.ChangePassoword.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.FoodMenu.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.Login.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.MyOrder.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Registration.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateAdmin.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UpdateProfile.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.PresentationLayer.UserHomePage.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.TrustInfo.xml
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe.manifest
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.application
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.exe
+C:\Users\User\Desktop\FoodCourtManagementSystem -\FoodCourtManagementSystem\obj\Debug\FoodCourtManagementSystem.pdb
